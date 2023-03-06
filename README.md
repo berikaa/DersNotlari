@@ -1,4 +1,4 @@
-# Ders-Notlar-
+# Ders Notları
 Dosyanın içerisinde Bilgisayar Mühendisliği Lisans derslerine ait 7 adet dersin notu bulunmaktadır. Ders notları" Doktora Yeterlilik" sınavı için çıkarıldığı için ayrıntılı olarak hazırlanmıştır. Bu dersler:
   1. Ayrık Matematik
   2. Bilgisayar Mimarisi
