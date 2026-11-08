@@ -7,3 +7,5 @@ Dosyanın içerisinde Bilgisayar Mühendisliği Lisans derslerine ait 7 adet der
   5. Otomata (Özdevinirler Kuramı)
   6. Programlama Temelleri
   7. Veri Yapıları
+
+**Not**: GitHub'ın PDF önizleme özelliğinde bazen sorun olabiliyor. Bu yüzden depoyu Code → Download ZIP seçeneğiyle indirip tüm dosyalara erişebilirsiniz.
